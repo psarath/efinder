@@ -1,3 +1,5 @@
+git clone https://github.com/psarath/efinder.git
+
 python downloa dlink 
 https://www.python.org/download/releases/2.5/msi/
 
