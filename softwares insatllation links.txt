@@ -1,0 +1,6 @@
+python downloa dlink 
+https://www.python.org/download/releases/2.5/msi/
+
+
+PyCharm download link 
+https://www.jetbrains.com/pycharm/download/?section=windows
